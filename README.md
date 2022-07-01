@@ -8,7 +8,7 @@
 
 - 👨‍💻 All my projects are available from my admins on Github. 
 
-- 💬 Ask me about **Python** 
+- 💬 Ask me about **Python**, **SQL server**, **Power BI**, **Excel**, **Oracle** **System SAP**
 
 <br><br> 
 
