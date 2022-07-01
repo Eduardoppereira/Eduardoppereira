@@ -4,7 +4,7 @@
 
 - 🔥 Junior Python Programmer & Junior Power BI Analyst. 
 
-- 🔭 I am currently looking for a new job opportunity. 
+- 🔭 Currently I work with Excel and the SAP system.
 
 - 👨‍💻 All my projects are available from my admins on Github. 
 
