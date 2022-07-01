@@ -1,6 +1,7 @@
 <h1 align="left">Hi <img src= "https://img.icons8.com/emoji/48/000000/waving-hand-medium-dark-skin-tone.png" width="30px">, I'm Eduardo Pedrosa
   
 </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopedrosaa&color=yellow" alt="Profile views" /> </p> 
+
 - 🔥 Junior Python Programmer & Junior Power BI Analyst. 
 
 - 🔭 I am currently looking for a new job opportunity. 
