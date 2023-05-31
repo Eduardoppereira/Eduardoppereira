@@ -4,7 +4,7 @@
 
 - 🔥 Junior Python Programmer & Junior Power BI Analyst. 
 
-- 🔭 Currently I work with Excel and the SAP system.
+- 🔭 Currently, I work with Power BI, SQL Server, Excel, and Python.
 
 - 👨‍💻 All my projects are available from my admins on Github. 
 
