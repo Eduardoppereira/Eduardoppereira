@@ -2,22 +2,26 @@
   
 </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopedrosaa&color=yellow" alt="Profile views" /> </p> 
 
-- 🔥 Junior Python Programmer & Junior Power BI Analyst. 
+- Back-end developer and data and BI analyst
 
-- 🔭 Currently, I work with Power BI, SQL Server, Excel, and Python.
+- I currently work with Power BI, Looker Studio, SQL Server, MySQL, Oracle, Python, Apache Airflow Rest API, AWS.
 
-- 👨‍💻 All my projects are available from my admins on Github. 
-
-- 💬 Ask me about **Python**, **SQL server**, **Power BI**, **Excel**, **Oracle** **System SAP**
+- All my projects are available through my repositories on Github and some on LinkedIn.
 
 <br><br> 
 
 ## 🛠 &nbsp;Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; 
+![Power Bi](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=Powerbi)&nbsp;
+![Looker Studio](https://img.shields.io/badge/-DataStudio-05122A?style=flat&logo=GoogleDataStudio)&nbsp;
+![SQL](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=MicrosoftSQLServer)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
+![ApacheAirflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=ApacheAirflow)&nbsp;
+![RestAPI](https://img.shields.io/badge/-RestAPI-05122A?style=flat&logo=Rest)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
+
 
 <br><br> 
 
