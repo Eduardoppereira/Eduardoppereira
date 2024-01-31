@@ -2,11 +2,11 @@
   
 </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopedrosaa&color=yellow" alt="Profile views" /> </p> 
 
-- Back-end developer and data and BI analyst
+- Engenheiro de Analytics e analista de BI
 
-- I currently work with Power BI, Looker Studio, SQL Server, MySQL, Oracle, Python, Apache Airflow Rest API, AWS.
+- Atualmente trabalho com Power BI, Looker Studio, SQL Server, MySQL, Oracle, Python, Apache Airflow, Rest API, AWS.
 
-- All my projects are available through my repositories on Github and some on LinkedIn.
+- Todos os meus projetos estão disponíveis através dos meus repositórios no Github e alguns no LinkedIn.
 
 <br><br> 
 
