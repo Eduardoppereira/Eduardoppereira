@@ -2,11 +2,11 @@
   
 </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopedrosaa&color=yellow" alt="Profile views" /> </p> 
 
-- Analista de Dados e BI
+- Data Analyst
 
-- Atualmente trabalho com Power BI, Looker Studio, SQL Server, MySQL, Oracle, Python, Apache Airflow, Rest API, AWS.
+- A professional in the field of data analysis, graduated in Systems Analysis and Development from Unigranrio. Throughout my journey, I have developed comprehensive skills in different areas related to data and programming.
 
-- Todos os meus projetos estão disponíveis através dos meus repositórios no Github e alguns no LinkedIn.
+- All my projects are available through my repositories on Github and some on LinkedIn.
 
 <br><br> 
 
@@ -33,7 +33,10 @@
 
 <br><br> 
 
-<a href="https://www.linkedin.com/in/eduardo-pedrosap/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Eduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> 
-<a href="https://www.instagram.com/eduardo_01511/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Eduardo-05122A?style=flat&logo=instagram" alt="instagram"/> </a> 
-<a href="eduardoppsilva@outlook.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Eduardo-05122A?style=flat&logo=gmail" alt="Gmail"/> </a>
+
+## Conecte-se Comigo
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/eduardopedrosap)
+<a href = "https://www.instagram.com/eduardo_01511/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/eduardo-pedrosap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
