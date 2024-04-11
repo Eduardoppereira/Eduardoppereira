@@ -2,7 +2,7 @@
   
 </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopedrosaa&color=yellow" alt="Profile views" /> </p> 
 
-- Engenheiro de Analytics e analista de BI
+- Analista de Dados e BI
 
 - Atualmente trabalho com Power BI, Looker Studio, SQL Server, MySQL, Oracle, Python, Apache Airflow, Rest API, AWS.
 
